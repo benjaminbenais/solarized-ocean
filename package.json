@@ -1,0 +1,21 @@
+{
+    "name": "solarized-ocean",
+    "displayName": "solarized-ocean",
+    "description": "The default Solarized theme from VsCode but with blue accents",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Solarized Ocean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Solarized Ocean-color-theme.json"
+            }
+        ]
+    }
+}
