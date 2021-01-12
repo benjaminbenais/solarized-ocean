@@ -4,4 +4,4 @@ This theme is based on the default Solarized theme shipped with VsCode for the t
 
 <br>
 
-![screenshot-javascript](./screenshot.png)
+![screenshot-javascript](screenshot.png)
