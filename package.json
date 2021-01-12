@@ -3,17 +3,18 @@
   "displayName": "Solarized Ocean",
   "description": "The default Solarized theme from VsCode but with blue accents",
   "version": "1.0.0",
+  "author": "Benjamin Benais",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjaminbenais/solarized-ocean"
+  },
+  "publisher": "benjaminbenais",
   "engines": {
     "vscode": "^1.52.0"
   },
   "categories": [
     "Themes"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/benjaminbenais/solarized-ocean"
-  },
-  "publisher": "benjaminbenais",
   "icon": "icon.png",
   "contributes": {
     "themes": [
